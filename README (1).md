@@ -226,12 +226,18 @@ Choose one (MIT is a common default). Add a `LICENSE` file if needed.
 - Classic tools: scikit-learn + deep learning frameworks for feature learning and evaluation
 
 ## Images
+![image alt](https://raw.githubusercontent.com/gabrieleagosta005-del/THE_PEPEGAS313551/93a182cf240fb842ebbf818b68c1d941a71e709f/WhatsApp%20Image%202026-01-06%20at%2019.29.08.jpeg)
 
-!(image alt){https://github.com/gabrieleagosta005-del/THE_PEPEGAS313551/blob/93a182cf240fb842ebbf818b68c1d941a71e709f/WhatsApp%20Image%202026-01-06%20at%2019.29.08.jpeg}
-!(image alt){https://github.com/gabrieleagosta005-del/THE_PEPEGAS313551/blob/93a182cf240fb842ebbf818b68c1d941a71e709f/WhatsApp%20Image%202026-01-06%20at%2019.29.09%20(1).jpeg}
-!(image alt){https://github.com/gabrieleagosta005-del/THE_PEPEGAS313551/blob/93a182cf240fb842ebbf818b68c1d941a71e709f/WhatsApp%20Image%202026-01-06%20at%2019.29.09%20(2).jpeg}
-!(image alt){https://github.com/gabrieleagosta005-del/THE_PEPEGAS313551/blob/93a182cf240fb842ebbf818b68c1d941a71e709f/WhatsApp%20Image%202026-01-06%20at%2019.29.09.jpeg}
-!(image alt){https://github.com/gabrieleagosta005-del/THE_PEPEGAS313551/blob/93a182cf240fb842ebbf818b68c1d941a71e709f/WhatsApp%20Image%202026-01-06%20at%2019.29.10%20(1).jpeg}
-!(image alt){https://github.com/gabrieleagosta005-del/THE_PEPEGAS313551/blob/93a182cf240fb842ebbf818b68c1d941a71e709f/WhatsApp%20Image%202026-01-06%20at%2019.29.10%20(2).jpeg}
-!(image alt){https://github.com/gabrieleagosta005-del/THE_PEPEGAS313551/blob/93a182cf240fb842ebbf818b68c1d941a71e709f/WhatsApp%20Image%202026-01-06%20at%2019.29.10.jpeg}
+![image alt](https://raw.githubusercontent.com/gabrieleagosta005-del/THE_PEPEGAS313551/93a182cf240fb842ebbf818b68c1d941a71e709f/WhatsApp%20Image%202026-01-06%20at%2019.29.09%20(1).jpeg)
+
+![image alt](https://raw.githubusercontent.com/gabrieleagosta005-del/THE_PEPEGAS313551/93a182cf240fb842ebbf818b68c1d941a71e709f/WhatsApp%20Image%202026-01-06%20at%2019.29.09%20(2).jpeg)
+
+![image alt](https://raw.githubusercontent.com/gabrieleagosta005-del/THE_PEPEGAS313551/93a182cf240fb842ebbf818b68c1d941a71e709f/WhatsApp%20Image%202026-01-06%20at%2019.29.09.jpeg)
+
+![image alt](https://raw.githubusercontent.com/gabrieleagosta005-del/THE_PEPEGAS313551/93a182cf240fb842ebbf818b68c1d941a71e709f/WhatsApp%20Image%202026-01-06%20at%2019.29.10%20(1).jpeg)
+
+![image alt](https://raw.githubusercontent.com/gabrieleagosta005-del/THE_PEPEGAS313551/93a182cf240fb842ebbf818b68c1d941a71e709f/WhatsApp%20Image%202026-01-06%20at%2019.29.10%20(2).jpeg)
+
+![image alt](https://raw.githubusercontent.com/gabrieleagosta005-del/THE_PEPEGAS313551/93a182cf240fb842ebbf818b68c1d941a71e709f/WhatsApp%20Image%202026-01-06%20at%2019.29.10.jpeg)
+
 
