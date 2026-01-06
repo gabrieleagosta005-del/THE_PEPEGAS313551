@@ -1,2 +1,0 @@
-# THE_PEPEGAS313551
-PatternMind_Dataset
